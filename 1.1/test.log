@@ -1,0 +1,3 @@
+ubuntu2204@DESKTOP-ENKVJP7:~/KuruC$ sudo gcc 1.1_no-response.c -o 1.1_no-response
+ubuntu2204@DESKTOP-ENKVJP7:~/KuruC$ ./1.1_no-response
+ubuntu2204@DESKTOP-ENKVJP7:~/KuruC$

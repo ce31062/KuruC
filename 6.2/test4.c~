@@ -1,0 +1,21 @@
+#include<stdio.h>
+int main(void)
+{
+  int cost, cost1, cost3, cost5, cost8;
+  printf("定価を入力してください:");
+  scanf("%d",&cost);
+
+  //  caliculation
+  cost1 = cost * 0.1;
+  cost3 = cost * 0.3;
+  cost5 = cost * 0.5;
+  cost8 = cost * 0.8;
+
+  // Print costs
+  printf("1割引: %d\n",cost1);
+  printf("3割引: %d\n",cost3);
+  printf("5割引: %d\n",cost5);
+  printf("8割引: %d\n",cost8);
+
+  return 0;
+}
