@@ -4,4 +4,4 @@
 
 学習目的<br>
 ・Linux kernelソースの理解補助<br>
-・kernel driverの作成等、組み込み機会への備え<br>
+・kernel driverの作成等、組み込みへの備え<br>
